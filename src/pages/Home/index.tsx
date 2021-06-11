@@ -11,7 +11,7 @@ const Home = () => (
             Bem-vindos ao desafio do capítulo 3 do Bootcamp DevSuperior. <br /> <br /> Favor observar as instruções passadas no capítulo sobre a <br /> elaboração deste projeto. <br /> <br /> Este design foi adaptado a partir de Ant Design System for Figma, de <br /> Mateusz Wierzbicki: antforfigma@gmail.com
         </div>
         <div className="button-margins">
-            <Link to="/link">
+            <Link to="/search">
                 <ButtonIcon text="Começar" />
             </Link>
         </div>
