@@ -1,0 +1,27 @@
+.box-properties {
+    display: flex;
+    align-items: center;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin: 0px 20px 5px 15px;
+    height: 40px;
+}
+
+.box-text-name {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #737373;
+    margin-left: 10px;
+}
+
+.box-text-value {
+    font-weight: lighter;
+    font-size: 16px;
+    line-height: 24px;
+    color: #9b9696;
+    margin-left: 5px;
+}
